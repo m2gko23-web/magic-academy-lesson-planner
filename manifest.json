@@ -1,0 +1,21 @@
+{
+  "name": "نظام تحضير الدروس الذكي - Magic Academy",
+  "short_name": "تحضير الدروس",
+  "description": "نظام ذكي لإنشاء خطط الدروس اليومية بمساعدة الذكاء الاصطناعي",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#667eea",
+  "theme_color": "#2c3e50",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
